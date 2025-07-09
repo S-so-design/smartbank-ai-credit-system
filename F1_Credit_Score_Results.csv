@@ -1,0 +1,11 @@
+Customer ID,Name,Month,Income ($),Rent ($),Utilities ($),Shopping ($),Food ($),Total Spending ($),Decision
+CUST001,Aisha Khan,May,1264,656,90,293,324,1363,Declined
+CUST001,Aisha Khan,June,2381,624,81,226,289,1220,Approved
+CUST002,John Lee,May,2387,797,139,207,193,1336,Approved
+CUST002,John Lee,June,1798,501,131,152,314,1098,Approved
+CUST003,Carlos Vega,May,1225,719,91,245,217,1272,Declined
+CUST003,Carlos Vega,June,1646,737,129,201,325,1392,Declined
+CUST004,Mei Chen,May,2042,593,121,100,181,995,Approved
+CUST004,Mei Chen,June,1653,695,97,212,327,1331,Declined
+CUST005,Fatima Yusuf,May,1677,649,113,119,173,1054,Approved
+CUST005,Fatima Yusuf,June,1887,748,105,119,236,1208,Approved
